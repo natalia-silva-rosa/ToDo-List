@@ -1,13 +1,13 @@
 # ToDo-List
-##Sobre o projeto
+## Sobre o projeto
 Este é um projeto de uma aplicação web que consiste em uma todo list simples, onde o usuário pode adicionar novas tarefas, atualizar informações de tarefas existentes e marcar tarefas como concluídas.
 
-##Funcionalidades
+## Funcionalidades
 - Adicionar novas tarefas
 - Atualizar informações de tarefas existentes
 - Marcar tarefas como concluídas
 
-##Principais tecnologias utilizadas
+## Principais tecnologias utilizadas
 Este projeto foi construído com as seguintes tecnologias:
 
 ReactJS
@@ -16,7 +16,7 @@ Python
 Django Rest Framework
 Axios
 
-##Como executar o projeto
+## Como executar o projeto
 
 1. Clone este repositório para sua máquina;
 2. Entre na pasta do projeto: cd nome-da-pasta;
