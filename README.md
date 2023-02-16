@@ -28,7 +28,9 @@ O servidor será iniciado e a aplicação estará disponível no localhost:3000;
 ### backend
 1. Crie e ative seu ambiente virtual com os comandos:
 `python -m venv venv`
-`source venv/Scripts/activate´
+`source venv/Scripts/activate`
+2. Instale os pacotes necessários:
+`pip install -r requirements.txt`
 
 ## Como utilizar a aplicação
 ### Adicionar uma nova tarefa
