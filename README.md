@@ -24,11 +24,11 @@ Axios
 4. Inicie o servidor local: yarn dev;
 O servidor será iniciado e a aplicação estará disponível no localhost:3000;
 
-Como utilizar a aplicação
-Adicionar uma nova tarefa
+## Como utilizar a aplicação
+- Adicionar uma nova tarefa
 Para adicionar uma nova tarefa, basta preencher o campo de texto na parte superior da tela e clicar no botão "Adicionar".
 
-Atualizar uma tarefa existente
+- Atualizar uma tarefa existente
 Para atualizar uma tarefa existente, basta clicar na tarefa em questão e alterar as informações desejadas.
 
 Marcar uma tarefa como concluída
